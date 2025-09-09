@@ -1,0 +1,49 @@
+Taluk,Month,Normal Rainfall (mm),Actual Rainfall (mm)
+Anekal,January,2.5,9.7
+Bangalore North,January,2.5,3.8
+Bangalore South,January,2.5,1.9
+Bangalore East,January,2.5,0
+Anekal,February,4.3,0
+Bangalore North,February,4.3,0
+Bangalore South,February,4.3,0
+Bangalore East,February,4.3,0
+Anekal,March,13.9,41.5
+Bangalore North,March,13.9,24.2
+Bangalore South,March,13.9,42.6
+Bangalore East,March,13.9,28.5
+Anekal,April,43.1,83.5
+Bangalore North,April,43.1,102
+Bangalore South,April,43.1,69.5
+Bangalore East,April,43.1,108.3
+Anekal,May,125.7,258.9
+Bangalore North,May,125.7,205.2
+Bangalore South,May,125.7,165.9
+Bangalore East,May,125.7,164.5
+Anekal,June,85.3,97.4
+Bangalore North,June,85.3,68.9
+Bangalore South,June,85.3,73.1
+Bangalore East,June,85.3,42.8
+Anekal,July,110.1,135.5
+Bangalore North,July,110.1,125.5
+Bangalore South,July,110.1,105.7
+Bangalore East,July,110.1,61.3
+Anekal,August,142.9,272.8
+Bangalore North,August,142.9,135.8
+Bangalore South,August,142.9,158.3
+Bangalore East,August,142.9,109.9
+Anekal,September,199.1,225.8
+Bangalore North,September,199.1,155.6
+Bangalore South,September,199.1,154.2
+Bangalore East,September,199.1,139.3
+Anekal,October,185.7,255.4
+Bangalore North,October,185.7,200.7
+Bangalore South,October,185.7,206.8
+Bangalore East,October,185.7,245.9
+Anekal,November,56.4,42.1
+Bangalore North,November,56.4,21
+Bangalore South,November,56.4,23.3
+Bangalore East,November,56.4,34.6
+Anekal,December,10.9,0
+Bangalore North,December,10.9,0
+Bangalore South,December,10.9,0
+Bangalore East,December,10.9,0
